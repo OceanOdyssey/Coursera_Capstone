@@ -1,0 +1,8 @@
+Address,City,Venue_Name,Latitude,Longitude,Miles_Away,Type,Category_ID
+201 Andover ST,North Andover,North Andover Town Common,42.68425947938683,-71.11500096346748,0.4,Park,4bf58dd8d48988d163941735
+201 Andover ST,North Andover,Market Basket,42.68459997115708,-71.13646899619886,0.9,Grocery Store,4bf58dd8d48988d118951735
+201 Andover ST,North Andover,North Andover Fire Department,42.682369,-71.110961,0.5,Fire Station,4bf58dd8d48988d12c941735
+201 Andover ST,North Andover,North Andover Police Department,42.692820000000005,-71.119249,0.9,Police Station,4bf58dd8d48988d12e941735
+201 Andover ST,North Andover,MBTA Andover Station,42.659738097196076,-71.14410134740966,1.9,Train Station,4bf58dd8d48988d129951735
+201 Andover ST,North Andover,Andover Country Club,42.672571426961625,-71.16706660710031,2.4,Golf Course,4bf58dd8d48988d1e6941735
+201 Andover ST,North Andover,AFC Urgent Care North Andover,42.675540924072266,-71.13066101074219,0.6,Emergency Room,4bf58dd8d48988d194941735
